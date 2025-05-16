@@ -6,6 +6,7 @@ public class menu {
 		// TODO Auto-generated method stub
 		// Hola caracola
 		System.out.print("Version 1.0.2");
+		System.out.print("Version 1.0.3");
 	}
 
 }
