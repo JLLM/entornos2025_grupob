@@ -7,6 +7,7 @@ public class menu {
 		// Hola caracola
 		System.out.print("Version 1.0.2");
 		System.out.print("Version 1.0.3");
+		System.out.print("Version 1.0.4");
 	}
 
 }
