@@ -3,8 +3,13 @@ package entornos_grupo_b;
 public class vivazo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		int h =1;
+		
+		if(h==1){
+			System.out.println("buenas");
+		}
+		
 	}
 
 }
