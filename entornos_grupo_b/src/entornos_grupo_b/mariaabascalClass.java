@@ -7,6 +7,7 @@ public class mariaabascalClass {
 		System.out.println("HOLA SOY MARIA ");
 		System.out.println("HOLA CARACOLA , ME ABURRO");
 		System.out.println("TENGO SUEÑO");
+		System.out.println("HOLA JOSE LUIS");
 	}
 
 }
