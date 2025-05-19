@@ -12,6 +12,7 @@ public class menu {
 		System.out.println("Version conflicto");
 		System.out.println("Version conflicto 2");
 		System.out.println("hola");
+		System.out.println("Jose Luis haz un aprobado general");
 
 	}
 
