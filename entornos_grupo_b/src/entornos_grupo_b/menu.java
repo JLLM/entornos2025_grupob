@@ -8,6 +8,8 @@ public class menu {
 		// Adios carabola
 		System.out.print("Version 1.0.2");
 		System.out.print("Version 1.0.3");
+		System.out.print("Version 1.0.4");
+		System.out.println("Version conflicto");
 
 	}
 
