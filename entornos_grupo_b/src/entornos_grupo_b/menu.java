@@ -11,6 +11,7 @@ public class menu {
 		System.out.print("Version 1.0.4");
 		System.out.println("Version conflicto");
 		System.out.println("Version conflicto 2");
+		System.out.println("hola");
 
 	}
 
